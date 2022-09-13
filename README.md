@@ -1,4 +1,4 @@
-##You should fork/clone this repository to use as a basis for the development environment.
+## You should fork/clone this repository to use as a basis for the development environment.
 
 Subject of this is to setup a robust, production ready and developer friendly Continuous Deployment pipeline for the given demo application.
 
